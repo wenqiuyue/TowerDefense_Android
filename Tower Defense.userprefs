@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Character.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Food.cs" Line="173" Column="5" />
+      <File FileName="Assets\Scripts\FoodIncubator.cs" Line="27" Column="12" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckPointManager.cs" Line="25" Column="19" />
+      <File FileName="Assets\Scripts\SoundPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FloorGrass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShowView.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharacterData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinStart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Animate\ScaleAndMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Wave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Guidance.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="174" Column="1" />
+      <File FileName="Assets\Scripts\AddTotalMoney.cs" Line="14" Column="7" />
+      <File FileName="Assets\Scripts\BuildManager.cs" Line="33" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
